@@ -66,6 +66,7 @@
 				font-family: verdana;
 				background-color: rgba(92,20,14,0.1);
 				text-align: left;
+				padding: 10px;
 			}
 
 			.square{
@@ -346,11 +347,11 @@
 			}
 			#hello{
 				position: fixed;
-				top: 12.75%;
-				width: 98.8%;
+				top: 5%;
+				width: 80%;
+				left: 10%;
 				text-align: center;
-				background-color: rgba(0,0,0,0.4);
-				color: white;
+				opacity: 0.9;
 			}
 			@media screen and (max-width: 1200px){
 				article{
