@@ -348,8 +348,7 @@
 			#hello{
 				position: fixed;
 				top: 5%;
-				width: 80%;
-				left: 10%;
+				width: 100%;
 				text-align: center;
 				opacity: 0.9;
 			}
